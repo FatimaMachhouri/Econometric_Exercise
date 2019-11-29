@@ -8,7 +8,7 @@ library(ggplot2)
 library(caret)
 library(pROC)
 
-dir <- 'your_path'
+dir <- 'your_path' #Replace your_path by the directory path
 setwd(dir)
 
 # STEP 1 : We load the datas
